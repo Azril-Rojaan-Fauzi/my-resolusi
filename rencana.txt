@@ -3,4 +3,5 @@ Rencana
 Belajar javascript
 Belajar css animation
 Belajar php untuk backend
-Belajar mysql
+Belajar mysql dan bahasa java
+Belajar c++
