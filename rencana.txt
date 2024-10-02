@@ -3,4 +3,5 @@ Rencana
 Belajar javascript
 Belajar css animation
 Belajar php untuk backend
+>Belajar framework laravel
 Belajar mysql
